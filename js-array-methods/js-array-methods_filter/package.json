@@ -4,7 +4,7 @@
   "description": "Exercises for array filter",
   "main": "index.js",
   "devDependencies": {
-    "@babel/core": "^7.22.5",
+    "@babel/core": "^7.29.7",
     "@types/jest": "^29.5.2",
     "eslint-plugin-jest": "^27.2.2",
     "eslint": "^8.43.0",
